@@ -52,3 +52,34 @@ input{
     button:hover{
         box-shadow: 4px 3px 6px #4450bd;
     }
+
+    #startpage{}
+
+    #timer{}
+
+    #quiz{}
+
+    #result{}
+
+    #gameover{}
+
+    #highscore{}
+
+    #high-scorePage{}
+
+    #highscore-header{}
+
+    #highscoreContainer{}
+
+    #initials{}
+
+    #highscore-initials{}
+
+    #highscore-score{}
+
+    #finalScore{}
+
+    #endGameBtns{
+        display: none;
+    }
+
