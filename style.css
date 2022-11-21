@@ -30,8 +30,8 @@ input{
         hieght: 100vh;
         Display: flex;
         Justify-content: center;
-        align-item: center;
-        max-width; 80rem;
+        align-items: center;
+        max-width: 80rem;
         margin: 0 auto;
     }
 
